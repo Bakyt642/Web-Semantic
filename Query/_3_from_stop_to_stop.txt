@@ -1,0 +1,52 @@
+# Enter your stop name, date, station that you want to go 
+# All the possible traines from station to station
+
+PREFIX ex:    <http://example.com/stations/> 
+PREFIX gtfs:  <http://vocab.gtfs.org/terms#> 
+PREFIX foaf: <http://xmlns.com/foaf/0.1/> 
+PREFIX dct: <http://purl.org/dc/terms/> 
+PREFIX geo:   <http://www.w3.org/2003/01/geo/wgs84_pos#>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX xsd:   <http://www.w3.org/2001/XMLSchema#> 
+PREFIX schema: <http://schema.org/>
+PREFIX dbo: <http://dbpedia.org/ontology/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX bif: <http://www.openlinksw.com/schemas/bif#>
+
+SELECT DISTINCT  ?longName ?train_number ?depTime ?arrTime
+
+WHERE 
+
+{
+  ?stop_id	foaf:name     "Gare de Wallers"@fr.
+  
+  [ a 				gtfs:StopTime ;
+    gtfs:departureTime	?depTime;
+    gtfs:stop			?stop_id;
+  gtfs:trip				?trip_id;
+  gtfs:stopSequence		?stop_seq
+    ] . 
+  ?trip_id	gtfs:route	?route_id;
+           gtfs:service	?service_id;
+           gtfs:headsign	?train_number;
+           gtfs:direction	?direction.
+  
+  ?route_id gtfs:longName	?longName.
+  ?service_id	  a         gtfs:CalendarRule;
+                gtfs:thursday     true ;
+                schema:endDate    ?end_date ;
+                 schema:startDate  ?start_date.
+
+  {
+  	[ a 					gtfs:StopTime ;
+         gtfs:arrivalTime	?arrTime;
+  	gtfs:trip				?trip_id;
+  	gtfs:stopSequence		?stop_seq_end;
+  	gtfs:stop				?stop_id_end;
+    ] . 
+  ?stop_id_end	foaf:name     "Gare de Montigny en Ostrevent"@fr.
+  }
+  FILTER (?stop_seq_end > ?stop_seq)
+  FILTER ( "2019-01-24"^^xsd:date >= ?start_date && "2019-01-24"^^xsd:date <= ?end_date )
+}
+  ORDER BY ASC (?depTime)

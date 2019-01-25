@@ -1,0 +1,37 @@
+{% extends 'stations/main.html' %}
+{% block main_section %}
+    {% for post in news %}
+        <h1>{{ post.title }}</h1>
+        <p>{{ post.text}}</p>
+        <p>Autor:{{ post.author}}, Date: {{post.date}}</p>
+    {% endfor%}
+<!--&lt;!&ndash; <form action='/search/'           method="get">-->
+      <!--<label for="departure">From: </label>-->
+
+      <!--&lt;!&ndash;<input id="departure" type="text" name="your_name" maxlength="100" required>&ndash;&gt;-->
+      <!--&lt;!&ndash;<label for="arrival">To: </label>&ndash;&gt;-->
+      <!--&lt;!&ndash;<input id="arrival" type="text" name="your_name" maxlength="100" required>&ndash;&gt;-->
+      <!--&lt;!&ndash;<input type="submit" value="OK">&ndash;&gt;-->
+   <!--&lt;!&ndash; <input type="text" name="q">-->
+   <!--<input type="submit" value="Search">-->
+<!--</form> &ndash;&gt;-->
+
+
+<form action="/search/query3" method="post" class="container" >
+    {%csrf_token%}
+    <p>
+        <label for="a">From:</label>
+        <input id="a" align="left" type="text" name="departure3" > <label for="c">Departure Date:</label> <input id="c" type="text" name="departuredate3" >
+    </p>
+    <p>
+        <label for="a">To  _  :</label>
+        <input id="b" align = "left" type="text" name="arrival3"> <label for="d">Arrival Date __        : </label> <input id="d" type="text" name="arrivaldate3" >
+
+    </p>
+
+    <button type="submit"> Search </button>
+
+
+</form>
+
+{% endblock main_section %}

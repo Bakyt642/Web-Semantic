@@ -1,0 +1,3996 @@
+@prefix ex:    <http://example.com/stations/> .
+@prefix gtfs:  <http://vocab.gtfs.org/terms#> .
+
+ex:OCE681596  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chateau du Loir - Le Mans - Alençon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE232739  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Lyon St Paul - Lozanne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE697684  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "BUSIGNY-CAMBRAI-DOUAI-LILLE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-80142927-87212027
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Kehl - Strasbourg" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE817871  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Mondoubleau - Vendome CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE645613  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Travaux Strasbourg - Kehl" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE160703  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Ambérieu - Bourg-en-Bresse" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE629117  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Périgueux - Bordeaux" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-82001000-87192039
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Luxembourg - Metz-Ville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87485300-87491803
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Niort - Royan" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1109943  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Limoges -Périgueux - Agen" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE413  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "TOURS-ST PIERRE \"NAVETTES TGV" ;
+        gtfs:routeType  gtfs:Funicular .
+
+ex:OCE705965  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "MARSEILLE/AVIGNON/ORANGE via RGC, ARS et CNV" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87615286-87775007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Carcassonne - Nîmes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE160693  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars (Aix) - Chambéry- Bourg-St-Maurice" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE140637  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Annecy - Genève" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87645002-87645507
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Aurillac - Neussargues" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE528888  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Sélestat - Ribeauvillé - (Riquewihr)" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1226026  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Pontarlier - Frasne - Vallorbe" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87342006-87286435
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Béthune - Don Sainghin" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87193615-87212225
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Sarreguemines - Saverne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE357  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dijon-Culmont-Neufchateau-Toul- Nancy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE50  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon - Genève" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87141150-87171009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lunéville - Reims" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE2  a              gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Rennes - Quimper" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE325  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Saarbrücken-Forbach-Metz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1337997  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Navettes Franois-Villers-Neuilly" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87184002-87184408
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Belfort-Ville - Meroux" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1281991  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "PARIS STRASBOURG TER GE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE8627  a           gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dijon - Tours" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCEDB-80194324-87213470
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "WINDEN PFALZ - Wissembourg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87142125-87118000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Culmont-Chalindrey - Troyes" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87741009-87761007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chambéry-Chal.-les-Eaux - Valence-Ville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE873870  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-BUSIGNY-AULNOYE-JEUMONT(p)" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87592006-87594093
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Limoges-Bénédictins - Ussel" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE200737  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Haguenau- Strasbourg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87175042-87175018
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bar-le-Duc - Revigny" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE697619  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LILLE-TOURNAI-ASCQ-ORCHIES" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE237  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon St-Paul - Sain Bel" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87734699-87722025
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Puy-en-Velay - Lyon-Perrache" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87743716-87726000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Ambérieu-en-Bugey - St-Etienne-Châteaucreux" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE168688  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Lyon St-Paul - Sain Bel" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87696013-87697128
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bourg-En-Bresse-Gare-Ro - Lyon-Part-Dieu-Gare-Rou" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87718007-87718239
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Besançon-Viotte - Lons-le-Saunier" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE128635  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Rouen R.D. / Dieppe" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE556927  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Vichy / Ambert" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1209976  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Commentry / Montluçon / Vierzon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE637136  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car SARREBOURG - SARREGUEMINES" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE136641  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Limoges - Felletin - Montluçon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87734699-87723197
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Puy-en-Velay - Lyon-Part-Dieu" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87491803-87491001
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Royan - Saintes" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105887  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM01] AMIENS - ALBERT" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE49  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon - Bellegarde - Evian - St-Gervais" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE647  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Villefranche-La Tour de Carol" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE629112  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bordeaux - Le Verdon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE701656  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CGV-REIMS-DIJON" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE17  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Mans-Rennes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE63  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Annecy - St Gervais" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE4627  a           gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Toulouse / Narbonne / Nimes / Cerbère" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87193672-87215459
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Herbitzheim - Sarre-Union" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE725925  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Decize - Nevers - Cosne" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE31  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Mans - Le Croisic" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87192039-87141002
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Metz-Ville - Nancy-Ville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1226021  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Besançon - Morteau - La Chaux de Fonds" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87746008-87747006
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Annecy - Grenoble" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE572937  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Reguliers Saumur - Les Sables d'Olonne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE384862  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Clermont Fd / Nimes (ligne 4)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE909879  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Is-sur-Tille - Dijon - Les-Laumes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE8622  a           gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "IV MARSEILLE / MONTPELLIER / NARBONNE / CERBERE Multi activités" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817865  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Eguzon - Argenton - Châteauroux CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE645685  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LE HAVRE ROLLEVILLE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE669700  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Mans-Caen" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE616985  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Colmar - Bollwiller - Mulhouse" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87696005-87543009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nevers - Orléans" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE200732  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Mulhouse - Colmar Omnibus" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE669676  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes-Saumur" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCEZW-87576025-87576215
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Romorantin-Blanc-Argent - Valençay" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE701669  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "BUS TER TROYES - NOGENT-SUR-SEINE" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE160687  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "(Macon) - Lyon - Avignon Multi Activités" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE76  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Poitiers - Châtellerault" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1494032  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ARRAS / LILLE EUROPE / DUNKERQUE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE180698  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bus 4712 Toulouse Mazamet" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87313874-87296004
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Amiens - St Quentin" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE140645  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Chambéry - Annecy - Evians" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE701651  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "FISMES - REIMS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE90  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Royan - Angoulême" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE725906  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nevers - Paray - Lyon (Multi-Activités)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE12  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Guingamp - Carhaix" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE610  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Paris-Vaug. / Dreux / Argentan / Granville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE725952  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "BORDEAUX-PERIGUEUX-BRIVE-TULLE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE629083  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car LONGWY - LONGUYON" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1465995  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Arvant / Aurillac" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87718007-87718833
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Besançon-Viotte - Mouchard" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE156701  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Roanne - Lyon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE104651  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LIMOGES -GUERET - MONTLUCON" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87765008-87753004
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Avignon-Centre - Miramas" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87318964-87765503
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Avignon-TGV - Cavaillon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE156691  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Roanne - St-Etienne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105905  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM24C] AMIENS - ABBEVILLE / CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87543017-87571000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Aubrais-(les) - Tours" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE697673  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LILLE-VALENCIENNES-AULNOYE-JEUMONT-VALENCIENNES-CAMBRAI" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCEZW-87543165-87576215
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Salbris - Valençay" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817860  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Droué-Courtalain-Chartres CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1474034  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM19C] PARIS - PERSAN - BEAUVAIS / CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE213  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon - Grenoble" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1209984  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "PARIS-CHARTRES-NOGENT" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE637144  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car METZ - VERDUN" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE629106  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Limoges -Périgueux - Agen" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87713040-87171009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dijon-Ville - Reims" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE89  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Royan - Niort" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87641001-87576009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Montluçon-Ville - Vierzon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105895  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM12C] CREIL - ST QUENTIN / CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE655  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ROMANS/BRIANCON" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87775007-87611004
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nîmes - Toulouse-Matabiau" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87142125-87182063
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Culmont-Chalindrey - Mulhouse" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE456859  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Bort Les Orgues / Neussargues" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE725919  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dijon - Bourg en Bresse (Multi-Activités)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE25  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes - Cholet" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE125  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Orleans-Vierzon-Chateauroux- Argenton-Limoges" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE171  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lannion - Brest" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87116301-87430819
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Coulommiers - La-Ferté-Gaucher-Centre" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87444000-87571000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Caen - Tours" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87481788-87481705
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Croisic - St-Nazaire" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE140640  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Lyon - Chamonix" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE384856  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Clermont Fd pass nord / sud" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87713040-87686667
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dijon-Ville - Paris-Bercy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE360  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Reims-Bar Le Duc-Metz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE535  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Mulhouse - Kruth (73500)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817859  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Montargis - Gien CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE685635  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "IV Marseille - Nice - Menton - Vintimille" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE581  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "(Evx) / Lisieux / Caen  / Cherbourg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87271593-87588954
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Crépy-en-Valois - Laon-Gare-Routière-Poma" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE468860  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Frohmuhl-Saverne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87406744-87191007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Distroff (Eglise) - Thionville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE697686  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ST QUENTIN-BUSIGNY-CAMBRAI-DOUAI-LILLE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817873  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Salbris - Valençay" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE629119  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Angoulême - Bordeaux" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE200740  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Strasbourg - Metz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87698332-87721605
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon-St-Paul-Quai-Bondy - Sain-Bel" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1109945  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[IC351] PARIS - AMIENS - BOULOGNE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87317586-87317263
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Boulogne Ville - Calais Ville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE240  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Vallorcine - St-Gervais" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1478028  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Les Aubrais-Château Gaillard" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE637171  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car LA BRESSE - REMIREMONT" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE160695  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon - St-André-le-Gaz - Grenoble Gières" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE881849  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "EPERNAY - CHARLEVILLE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE140639  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Grenoble - Annemasse - Evian" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE84  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "La Rochelle - Bordeaux" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87193714-87193615
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Sarralbe - Sarreguemines" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105890  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM05C] LAON - HIRSON / CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE359  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "St-Dié-Nancy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE600928  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Haguenau - Wissembourg" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE52  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon - Annecy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87722025-87726000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon-Perrache - St-Etienne-Châteaucreux" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE4  a              gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Redon - Quimper" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE540929  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Montluçon / Vierzon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87194001-87191007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Longwy - Thionville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE327  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Treves-Metz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE468859  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers St-Dié-Ste Marie aux Mines-Sélestat" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE464860  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars St Chély / St Flour / Arvant" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE4630  a           gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Toulouse / Agen / Bordeaux" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1121942  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Pontarlier - Frasne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE516  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Paris / Rouen R.D." ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87713040-87715227
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dijon-Ville - Les Longevilles-Rochej." ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE829858  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Reguliers L 11  (Nantes - St Gilles Croix de Vie)" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE200739  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Strasbourg - Saverne - Sarrebourg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87683573-87683268
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Auxerre-St-Gervais - Laroche-Migennes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87141069-87141002
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Liverdun - Nancy-Ville" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87471003-87476606
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Rennes - Vannes" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE239  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon St-Paul - Brignais" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE633125  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ARRAS-HAZEBROUCK-DUNKERQUE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE645674  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Marseille / Nîmes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817854  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Loches - Chateauroux CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87722025-87743534
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon-Perrache - Oyonnax" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1209978  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Orléans - Nevers" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE637138  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car LUTZELBOURG - SARREBOURG" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE697635  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "RANG DU FLIERS-CALAIS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE669665  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Mans-Laval" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87172007-87172254
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Charleville-Mézières - Sedan" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87698340-87721605
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon-St-Paul-la-Feuilée - Sain-Bel" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105889  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM05] LAON - HIRSON" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE288845  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Verdun-Nancy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87476002-87474155
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lorient - Rosporden" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE629114  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Sarlat - Bergerac - Bordeaux" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE637120  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car LONGUYON - MONTMEDY" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87765008-87611004
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Avignon-Centre - Toulouse-Matabiau" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE464859  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Mommenheim-Bouxwiller" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1381993  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bus Région Rouen Pont Audemer" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE4629  a           gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Toulouse / Brive" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE156708  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Puy - Lyon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87696013-87743534
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bourg-En-Bresse-Gare-Ro - Oyonnax" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE180687  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bus 4709 4711 Toulouse Albi Carmaux Rodez" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE725927  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Autun - Nevers" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE33  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Thouars - La-Roche-sur-Yon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1077887  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "MONTLUCON BORDEAUX" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1226023  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Belfort - Vesoul et Belfort - Epinal" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87763003-87751370
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Gap - Meyrargues" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE354  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lunéville-Nancy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE805848  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Res-Dol-Din" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE637207  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "FECAMP BREAUTE ROUTIER REGULIER" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87645002-87613109
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Aurillac - Capdenac" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1337994  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Besançon- Mouchard- Lons Le Saunier" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1469997  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car VITTEL-CONTREX-NANCY" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCEDB-80143099-87212027
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Offenburg - Strasbourg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE873853  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-ARRAS-DOUAI-LILLE" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1397993  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Reguliers L 08 (La Roche - Les Sables d'O.)" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE645687  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ROUEN LE HAVRE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817867  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours - Vendôme - Chateaudun - Chartres CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE616987  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Mulhouse - Kruth" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87583005-87491001
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Angoulême - Saintes" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE200734  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Strasbourg - Mulhouse - Bâle" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87394007-87394296
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chartres - Nogent-le-Rotrou" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87763607-87751370
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Briançon - Meyrargues" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE629127  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Communay Sérézin" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1117945  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Roanne -  Lyon - Bourg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE202  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Roanne - St-Etienne" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1209973  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours Chinon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE645599  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Travaux Colmar - Metzeral" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE160689  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Macon - Valence - (Pierrelatte)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCEDB-80194035-87213470
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Neustadt (Weinstr) Hbf - Wissembourg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE644  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nîmes-Le Grau du Roi" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE46  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Geneve - Evian - Annecy - Valence - Avignon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE140647  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Bourg-en-Bresse - Chambéry" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE701653  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "REIMS-LAON" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE725908  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Digoin - Paray-le-Monial - Lozanne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87481002-87471003
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes - Rennes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87296012-87171009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Laon - Reims" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87215012-87193615
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Sarrebourg - Sarreguemines" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE476859  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Strasbourg-Sélestat via Erstein" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE140661  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ligne routière Mende Le Puy" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE4624  a           gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Rodez / Millau / Tournemire-Roquefort" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE104653  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LIMOGES - EYMOUTIERS - USSEL - CLERMONT FD" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE873866  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-LILLE-DON-BETHUNE-ST POL" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE829898  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Saverne - Lutzelbourg" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87747006-87747246
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Grenoble - Rives" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87116137-87116160
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Longueville (S.-et-M.) - Provins" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87413542-87413013
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Fécamp - Le Havre" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87144006-87192039
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Epinal - Metz-Ville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1518126  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "BUS TER CHALONS EN CHAMPAGNE - VERDUN" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE156693  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Macon - Bourg-en-Bresse" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105907  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM25C] ABBEVILLE - LE TREPORT / CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87741009-87697128
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chambéry-Chal.-les-Eaux - Lyon-Part-Dieu-Gare-Rou" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE697675  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LILLE-VALENCIENNES-AULNOYE-HIRSON" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817862  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nouan - Lamotte - Romorantin CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1209986  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Voves - Chartres" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87726729-87734699
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Firminy - Le Puy-en-Velay" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE637146  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car ST DIE - EPINAL" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE629108  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bordeaux - Agen" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87697128-87726000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon-Part-Dieu-Gare-Rou - St-Etienne-Châteaucreux" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE705735  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Travaux Strasbourg - Niederbronn" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87171553-87171009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Epernay - Reims" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105897  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM19] PARIS - PERSAN - BEAUVAIS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE16635  a          gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon - (LTP) - Chambéry - Bourg-St-Maurice" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87175042-87174003
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bar-le-Duc - Châlons-en-Champagne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE701666  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "BUS TER CHALONS-LANGRES" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE472859  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Sewen-Cernay" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE27  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes - Saint-Gilles-Croix-de-Vie - Pornic" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE645562  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nîmes Clermont Multi Activité" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1226017  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Belfort - Besançon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE428859  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Volvic / St Gervais" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE180695  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bus 4733 4734 Toulouse Ax - Foix Tarascon Latour de Carol" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE424860  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars St Gervais / St Eloy / Montluçon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87775866-87775007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Grau-du-Roi - Nîmes" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE140642  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Modane - Grenoble" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87615286-87615260
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Carcassonne - Quillan" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1530067  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Langogne La Bastide Mende" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE362  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Verdun-Conflans-Hagondange-Metz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE600931  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Strasbourg - Saverne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1465992  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Moulins / Vichy" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE685637  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Les Arcs - Vintimille" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE583  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lisieux / Trouville-Deauville / Dives-Cabourg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE873861  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-RANG DU FLIERS-CALAIS" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE240762  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes Châteaubriant TT" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE697688  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LILLE-LENS (Via DON)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817875  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Valençay - Luçay le Male CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87696005-87576009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nevers - Vierzon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE645617  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Grenoble - Gap - Briancon Multi Activités" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE697624  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ROUEN-AMIENS-DOUAI-LILLE (Multi)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1105902  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM22] PARIS - CREIL - AMIENS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1109947  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[IC372] PARIS - MAUBEUGE - CAMBRAI" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE869850  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Clamecy - Corbigny" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1021888  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "PARIS-DIJON - MULHOUSE - TER GRAND EST" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1209981  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours - Saumur" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE160697  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Lyon - Grenoble" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105892  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM02] AMIENS - SERQUEUX" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE652  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Béziers-Neussargues" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE16630  a          gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Mulhouse ville Freiburg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE637330  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Wissembourg - Strasbourg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE6  a              gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Rennes - Vannes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE4618  a           gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Toulouse / Auch" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87741009-87723478
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chambéry-Chal.-les-Eaux - La Tour-du-Pin" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE329  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Thionville-Longwy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE725916  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Auxerre - Avallon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE22  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes - Saint-Nazaire - Le Croisic" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE104647  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LIMOGES - PERIGUEUX - BORDEAUX" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE164703  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Lyon - Bourg-en-Bresse (via Villars)" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87726729-87722025
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Firminy - Lyon-Perrache" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE645732  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Toulouse / Figeac / Aurillac" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE596  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Metzeral - Colmar" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE343  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "IC MARSEILLE/SISTERON/BRIANCON + GAP/BRI" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87175042-87171553
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bar-le-Duc - Epernay" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE180690  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bus 4706+4708 Gaillac Laguépie Figeac" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE725930  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nevers - Moulins" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE384853  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Clermont Fd / Aurillac (ligne 2)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87713040-87696005
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dijon-Ville - Nevers" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE156687  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Lyon - Annecy" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE144650  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ligne routière Béziers Bédarieux" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE633127  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "DUNKERQUE-CALAIS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1101902  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM01C] AMIENS - ALBERT / CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87286302-87345025
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Hazebrouck - Lens" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87184002-87184440
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Belfort-Ville - Delle" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE697637  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "AMIENS-BOULOGNE-CALAIS (Multi)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE232738  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Mâcon - Lyon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE420859  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Clermont Fd / Ussel / Mauriac" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE616990  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Strasbourg - Rothau - Saales" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87447110-87478263
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Coutances - Pontorson-Mt-St-Michel" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE849853  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Ligne 32 Tram" ;
+        gtfs:routeType  gtfs:LightRail .
+
+ex:OCE629116  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Pau - Oloron - Bedous" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE669681  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Mans - Nogent" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE99  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "La Roche sur Yon - Bressuire - Saumur - Tours" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87755629-87755009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Hyères - Toulon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE645588  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Travaux Strasbourg - Haguenau - Wissembourg" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE619  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Strasbourg - Molsheim" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE199  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "St-Etienne - Lyon - Ambérieu" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1518092  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "GENTIANE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE67  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon - (LTP) - Chambéry - Modane" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87174003-87171009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Châlons-en-Champagne - Reims" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE180689  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bus 4710 4707 (Brive) Gramat Figeac Rodez" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE35  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Paris-Le Mans" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE372847  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Autocars L'Aigle / Surdon / Alençon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE140636  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Bellegarde - Chamonix" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE649569  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dijon / Clermont Multi-Activités" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1226025  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Belfort - Delle" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE356  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Pont-St-Vincent- Nancy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE144649  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Lyon - Lozanne - Paray-Le-Monial" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1  a              gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Rennes - Brest" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE577  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Strasbourg - Offenburg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87751008-87755009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Marseille-St-Charles - Toulon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE324  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Luxembourg-Longwy-Nancy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1337996  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Frasne- Vallorbe" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1469999  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car CULMONT CHALINDREY-VITTEL" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87747402-87761007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Grenoble U.-Gières - Valence-Ville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817869  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Aubigny - Gien CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE616989  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Strasbourg - Barr - Sélestat" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87313874-87411017
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Amiens - Rouen-Rive-Droite" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87223263-87317057
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lille Europe - Rang du Fl. Verton Ber." ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87313874-87317057
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Amiens - Rang du Fl. Verton Ber." ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87576207-87543009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bourges - Orléans" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87444000-87396002
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Caen - Le Mans" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817851  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours - Chateau du Loir CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCEDB-87212464-80191031
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lauterbourg - WOERTH RHEIN" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE204  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Macon - Bourg-en-Bresse - Ambérieu" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1209975  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Salbris - Romorantin - Luçay le Mâle" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE637135  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car METZ - LONGWY" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE637181  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car SARREBOURG - MORHANGE" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE669662  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes - Clisson TT" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87113001-87144279
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Paris-Est - Vittel" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87342006-87286005
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Béthune - Lille Flandres" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87571794-87571000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Port-Boulet - Tours" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87478404-87396002
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Laval - Le Mans" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE48  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Annecy - Chambéry" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE646  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Perpignan-Villefranche" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE629111  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bordeaux - Hendaye - Irun" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE216736  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CARPENTRAS / AVIGNON TGV" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE484866  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Clermont / Le Puy" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87175042-87141002
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bar-le-Duc - Nancy-Ville" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1321991  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Saumur-Angers-Cholet" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE16  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes - Redon - Rennes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1097905  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "St Brieuc-Dinan" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87471185-87471300
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Messac-Guipry - Redon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE4626  a           gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Toulouse / Luchon / Pau" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87594002-87613422
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Brive-la-Gaillarde - Rodez" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE725924  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Etang - Autun" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE30  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes - Redon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE252844  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Grenoble - Chambery" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE873868  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-LILLE-VALENCIENNES-AULNOYE-HIRSON" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE773848  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Luneville-Nancy-Bar Le Duc-Reims" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1226020  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Belfort - Lyon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87215459-87212225
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Sarre-Union - Saverne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1097895  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dol-Dinan" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87743005-87743534
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bourg-en-Bresse - Oyonnax" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87318964-87753004
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Avignon-TGV - Miramas" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE164687  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Laval-Vitré-Rennes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE156695  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars St-Claude - Oyonnax - Bourg - Lyon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE873850  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Laroche - Dijon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE633135  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LILLE-DOUAI-VALENCIENNES-CAMBRAI" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE697677  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "AULNOYE-LAON (Multi)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE616984  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Colmar - Munster - Metzeral" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87615286-87615161
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Carcassonne - Limoux" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE637148  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car BUSSANG - REMIREMONT" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87765008-87751008
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Avignon-Centre - Marseille-St-Charles" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE200731  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Strasbourg - Sélestat Omnibus" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1105899  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM20C] CREIL - BEAUVAIS / CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE701668  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "BUS TER TROYES - LAROCHES-MIGENNES" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87726471-87726448
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Boën - Montbrison" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87317263-87317057
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Calais Ville - Rang du Fl. Verton Ber." ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE160686  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon - Marseille Multi Activités" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87300863-87718007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Besançon-Franche-Comté - Besançon-Viotte" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87174003-87116582
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Châlons-en-Champagne - Château-Thierry" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87444000-87411017
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Caen - Rouen-Rive-Droite" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87594002-87645507
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Brive-la-Gaillarde - Neussargues" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87734699-87726000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Puy-en-Velay - St-Etienne-Châteaucreux" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE645564  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CHATEAUROUX - ST SEBASTIEN - LIMOGES" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87141002-87175778
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nancy-Ville - Verdun" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE180697  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bus 4713 (TE) Castelsarrasin Agen" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE140644  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Chambéry - Chamonix" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE701650  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CHARLEVILLE-GIVET" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE725905  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Paris Bercy - Dijon - Lyon (Multi-Activités)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE11  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Guingamp - Paimpol" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE873849  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Auxerre - Dijon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1465994  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Brive / St Denis Près Martel / Aurillac" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE592927  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Reguliers Bressuire - Saumur" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE4621  a           gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Toulouse / Rodez" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE873863  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-LILLE-CALAIS" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE633148  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LILLE-DON-BETHUNE-ST POL" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87182014-87182816
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Colmar - Metzeral" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE116623  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LIMOGES - POITIERS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1490030  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Trains spéciaux" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87576207-87696005
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bourges - Nevers" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1105904  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM24] AMIENS - ABBEVILLE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87576025-87543165
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Romorantin-Blanc-Argent - Salbris" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE633130  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "BETHUNE-LENS-LILLE (via libercourt)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1474033  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM22C] PARIS - CREIL - AMIENS / CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87406736-87191007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Creutzwald G.R. - Thionville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1209983  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Droué - Chartres - Courtalain" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE160699  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Bellegarde - Evian" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87485003-87491209
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "La Rochelle-Ville - St-Mariens-St-Yzan" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105894  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM12] PARIS - COMPIEGNE - ST QUENTIN - BUSIGNY" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE56  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon - Bourg-en-Bresse (via Villars)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE8  a              gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Saint Brieuc - Brest" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE140657  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ligne routière St Chély Millau" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE725918  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Seurre - Bourg-en-Bresse" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE24  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Mans - Angers - Nantes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE104649  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LIMOGES - UZERCHE - BRIVE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE70  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chambéry - St Marcellin - Valence" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE260844  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Valence - St-Etienne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE180692  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bus 4737 (TE) Souillac (BLG) (RDZ) St Denis Près Martel (BLG)" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87741009-87723494
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chambéry-Chal.-les-Eaux - St-André-le-Gaz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE124628  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Directs  NA AL MDE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE156689  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Lyon - Ambérieu - St Rambert en B" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE532923  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Ussel - Brive" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE633129  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LILLE-CALAIS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87444711-87396606
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Alençon - Château-du-Loir" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE534  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Belfort -Mulhouse ville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE572944  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Ussel - Bort les Orgues" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1345991  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Sarlat - Périgueux" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817872  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chateau Renault - Vendome CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87396002-87394296
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Mans - Nogent-le-Rotrou" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE629118  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "St Mariens - Bordeaux" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1506043  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lorient-Quimperlé" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-85000109-87182139
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Basel-SBB - St-Louis (Haut-Rhin)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87696005-87571000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nevers - Tours" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87785006-87784009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cerbère - Perpignan" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE705966  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "MARSEILLE/MIRAMAS via PDB" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE484887  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Le Puy / Firminy" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE37  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours -Caen" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87317263-87317065
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Calais Ville - Etaples Le Touquet" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE140638  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Grenoble - Chamonix" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE83  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "La Rochelle Porte Dauphine - Saintes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87454249-87576322
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bourges-Gare-Routière - St-Amand-Montrond-Orval" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE358  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Remiremont-Epinal-Nancy-Metz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE600927  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Strasbourg-Sarreguemines" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE3  a              gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Châteaubriant - Rennes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE540928  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Montluçon / Gannat / Clermont Fd" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1341991  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours-Vendôme-Châteaudun-Paris Austerlitz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE326  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Sarrebourg-Rémilly-Metz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE725913  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Paris Bercy - Auxerre - Morvan" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE873857  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-ARRAS-HAZEBROUCK-DUNKERQUE" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87184002-87743005
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Belfort-Ville - Bourg-en-Bresse" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87476002-87476606
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lorient - Vannes" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1121941  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Aillevillers -  Belfort" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87723429-87741009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bourgoin-Jallieu - Chambéry-Chal.-les-Eaux" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE340  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "MARSEILLE/AIX/PERTUIS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE873871  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LILLE-DOUAI-VALENCIENNES-CAMBRAI" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE200738  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Niederbronn - Strasbourg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87741009-87747246
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chambéry-Chal.-les-Eaux - Rives" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-82001000-87141002
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Luxembourg - Nancy-Ville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE238  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon St-Paul - Lozanne" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE633124  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LILLE-COMINES" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE645673  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "IV  MARSEILLE / NIMES / MONTPELLIER / NARBONNE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817853  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours - Loches CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1209977  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours - Nevers" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE637137  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car BITCHE - SARREGUEMINES" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE697634  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Lyon - St Etienne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE809861  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Saint Brieuc - Lannion" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1105888  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM03] ST QUENTIN - BUSIGNY" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE629113  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bordeaux - Mont de Marsan" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE16626  a          gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Commentry / Montluçon / Vierzon / Bourges (ligne 11)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE889871  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars travaux LYD - SAG - CR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE701657  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CGV-REIMS (Navettes)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE18  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes - Quimper - Brest" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE616  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Rouen R.D. / Caen" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE596931  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Haguenau-Obermodern-Saverne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87734004-87395822
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Clermont-Ferrand - St-Flour-les-Allées" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE64  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Ambérieu - Chambéry" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87611095-87671008
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Boussens - Tarbes" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE140665  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ligne routière Alès Nîmes" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE156707  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Firminy - St-Etienne - Lyon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87476002-87474098
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lorient - Quimper" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE725926  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Autun - Dijon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE384849  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Clermont Fd / Vic / Issoire / Brioude (ligne 1)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1226022  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dole - Pontarlier et Besançon - Dole - St Claude" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1097897  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chateaubriant - Janze" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE572938  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chinon - Thouars" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87172270-87172254
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Rethel - Sedan" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87394007-87394130
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chartres - Maintenon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87747006-87723494
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Grenoble - St-André-le-Gaz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87741009-87747006
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chambéry-Chal.-les-Eaux - Grenoble" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE156697  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Ambérieu - Chambéry" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1337993  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Besançon-Le Locle" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE873852  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-LILLE-TOURCOING-MOUSCRON" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87681007-87681452
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Corbeil-Essonnes - La Ferté-Alais" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1469996  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car CHARMES-MIRECOURT-VITTEL" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1522080  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "BUS TER-CHARLEVILLE-HIRSON" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE697679  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "BUSIGNY-AULNOYE-JEUMONT(p)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE645686  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "FECAMP LE HAVRE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817866  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Châteauroux - Le Blanc - Poitiers CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE616986  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Mulhouse - St Louis - Bâle" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE829852  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Reguliers L 06  (Nantes - Clisson - Cholet)" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE777845  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CHALONS-CULMONT" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE200733  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Mulhouse - Bâle Omnibus" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE669677  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes-Angers-Tours" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87581009-87584052
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bordeaux-St-Jean - Libourne" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE637164  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car NANCY - NEUFCHATEAU" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE629126  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars St Priest - St Pierre de Chandieu" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE726006  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Paris Lyon - Laroche (omnibus)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE201  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Roanne - Lyon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87313874-87411470
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Amiens - Serqueux" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87192666-87192039
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Conflans-Jarny - Metz-Ville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE889852  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars travaux LY - GE (01-62)" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE77  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Poitiers - Tours" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87172007-87295063
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Charleville-Mézières - Hirson" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE643  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Carcassonne-Quillan" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87773002-87783241
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Montpellier-Saint-Roch - St-Chély-d'Apcher" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE140646  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Lyon - Oyonnax - St-Claude - Morez" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE701652  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CHATEAU THIERRY-CHALONS-EPERNAY-REIMS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE725907  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Paray-le-Monial - Moulins-sur-Allier" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE13  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Quimper - Brest" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1333993  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM124] ALBERT - AMIENS - ABBEVILLE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE140660  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ligne routière La Bastide Langogne Mende" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE4623  a           gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Brive / Rodez" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87765008-87318964
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Avignon-Centre - Avignon-TGV" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE587  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Mans / Alençon / Argentan  / Caen" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE156702  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Clermont-Fd - Lyon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE725921  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dijon - Chalon - Mâcon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE104652  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "BRIVE - TULLE - USSEL - CLERMONT FD" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87581009-87594499
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bordeaux-St-Jean - Tulle" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1141946  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Reguliers L 24 (Le Mans - Alencon)" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1349993  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "maubeuge jeumont namur" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87215459-87193615
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Sarre-Union - Sarreguemines" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE685599  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes - Sablé - Rennes (Virgule)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817861  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dourdan - Chateaudun CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87342014-87345025
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Arras - Lens" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE637145  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car THIONVILLE - AUDUN LE ROMAN" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE629107  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bayonne - St Jean Pied de Port" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87141002-87191007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nancy-Ville - Thionville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87615161-87615260
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Limoux - Quillan" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105896  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM16] AMIENS - COMPIEGNE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87295063-87588954
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Hirson - Laon-Gare-Routière-Poma" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE140659  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ligne routière Mende Marvejols St chély" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87444711-87571000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Alençon - Tours" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE16634  a          gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon - (LTP - AMB) - Chambéry" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE701665  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "BUS TER SEDAN-LA FERTE SUR CHIERS" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87192039-87175778
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Metz-Ville - Verdun" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE26  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes-La Roche sur Yon - Les Sables" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE164707  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Grenoble - Gap - Briancon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCEZW-87576025-87543165
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Romorantin-Blanc-Argent - Salbris" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1301991  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chartres Le Mans Angers-St-Laud" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87184002-87718239
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Belfort-Ville - Lons-le-Saunier" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87444265-87411017
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lisieux - Rouen-Rive-Droite" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE669584  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Travaux Strasbourg-Saverne-Sarrebourg" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE180694  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bus 4726 4724 1240 4723 4727 1260 4728 Toulouse -LNN SSTL- Luchon Pau" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87615542-87611004
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Mazamet - Toulouse-Matabiau" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE140641  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Grenoble - Annonay" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87491001-87491209
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Saintes - St-Mariens-St-Yzan" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE384857  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nevers / Moulins / St Germain / Clermont (ligne 9 )" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE617093  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Strasbourg - Sélestat via Molsheim" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE496863  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Grenoble - Aubenas" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1101906  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM03C] ST QUENTIN - BUSIGNY / CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87763003-87751008
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Gap - Marseille-St-Charles" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE600930  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Strasbourg -Haguenau" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE361  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Verdun-Onville-Metz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE240747  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "tram-train-SGS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE536  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Paris Evreux Caen" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87471300-87471003
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Redon - Rennes" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE468861  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Saverne-Hattmatt" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87406801-87191007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Kédange (Eglise) - Thionville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87756056-87756882
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nice-Ville - Tende" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87681007-87681635
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Corbeil-Essonnes - Coudray-Montceaux" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87471185-87476606
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Messac-Guipry - Vannes" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE200741  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Strasbourg - Nancy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87713040-87723197
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dijon-Ville - Lyon-Part-Dieu" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87588954-87296442
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Laon-Gare-Routière-Poma - Tergnier" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE697623  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ARRAS-DOUAI-LILLE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1105901  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM21C] BEAUVAIS - ABANCOURT - LE TREPORT / CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1109946  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[IC356] PARIS - AMIENS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87763607-87751008
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Briançon - Marseille-St-Charles" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1209980  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ORL-TOURS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE160696  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "SAG - Rives - Grenoble Gières - Chambéry" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE85  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "La Rochelle - Angoulême" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87396325-87396002
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "La Ferté-Bernard - Le Mans" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105891  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM04] AMIENS - TERGNIER - LAON - ST QUENTIN" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE600929  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Haguenau - Niederbronn - Bitche" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE629078  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car SARREGUEMINES - BENING" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE651  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nîmes-Mende-St Chély d'Apcher" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87734004-87713040
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Clermont-Ferrand - Dijon-Ville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE5  a              gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Rennes - Saint Malo" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE701660  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CHARLEVILLE - THIONVILLE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE725915  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Auxerre - Clamecy - Corbigny" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCEDB-80194266-87213470
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Landau-Pfalz-Hbf - Wissembourg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87597609-87592006
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Guéret - Limoges-Bénédictins" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE873859  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-LILLE-DUNKERQUE" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-85010082-87747006
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Genève - Grenoble" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE645731  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "oulouse / Figeac" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE156710  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Villefranche - Lyon - Vienne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87713040-87175000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dijon-Ville - St-Dizier" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE517  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Rouen Serqueux (Gisors) Amiens Lille (Le Tréport)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE384852  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Clermont Fd / Le Puy (ligne 3)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE532920  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Montluçon - Guéret" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE633126  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LILLE-DUNKERQUE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817855  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours - Chateauroux CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1209979  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "PAZ-ORL" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE532896  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Ambert / Le Puy" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87281006-87223263
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dunkerque - Lille Europe" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE697682  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LENS-DOUAI-VALENCIENNES" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE222  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bellegarde - Genève" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE629115  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tarbes - Pau - Bayonne" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE625078  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car SARREBOURG-IGNEY AVRICOURT-LUNEVILLE" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87723197-87726000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lyon-Part-Dieu - St-Etienne-Châteaucreux" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE701659  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CGV-SEDAN" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE98  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Thouars - Saumur - Angers" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87406777-87191007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Hombourg (Chapelle) - Thionville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1109941  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Decize - Nevers - Moulins" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE596933  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Mulhouse-Belfort" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87681007-87682005
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Corbeil-Essonnes - Melun" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87481002-87471300
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes - Redon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE725928  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Etang - Autun" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE180688  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bus 4736 Rodez Séverac Millau St Rome de Cernon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1077888  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "USSEL BORDEAUX" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE34  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Orléans - Tours - Nantes - Le Croisic" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE372846  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Autocars Argentan / Briouze / Bagnoles / Flers / Vire / Folligny / Granville" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE160691  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Aix Chambéry - Modane" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE140635  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Chambéry - Aix-Les-Bains - Annecy" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE80  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Poitiers - La Rochelle" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1353992  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "aulnoye feignies mons" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1226024  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Besançon Viotte - Besançon TGV" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE600  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Sarrebrucken - Strasbourg Krimmeri" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87317586-87223263
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Boulogne Ville - Lille Europe" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE355  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Reims-Bar Le Duc-Nancy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE323  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Luxembourg-Metz-Nancy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE156699  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Lyon - (LTP - AMB) - Chambéry" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1337995  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dole- Mouchard- Saint Claude" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87313874-87317586
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Amiens - Boulogne Ville" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE12627  a          gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Villefranche - Lyon - Vienne" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE873854  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-ROUEN-AMIENS-DOUAI-LILLE (Multi)" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE669703  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours-Paray-Lyon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE645688  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ELBEUF YVETOT" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817868  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Sancerre - Cosne CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87313072-87313874
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Albert - Amiens" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE616988  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Ingwiller - Wimmenau - Lichtenberg" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87743716-87697128
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Ambérieu-en-Bugey - Lyon-Part-Dieu-Gare-Rou" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE621078  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car THIONVILLE - APACH" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87394007-87393314
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chartres - Rambouillet" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87193177-87191007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bouzonville - Thionville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87318964-87751008
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Avignon-TGV - Marseille-St-Charles" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE633121  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LILLE-TOURCOING-MOUSCRON courtrai" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE726008  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dijon - Nevers" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87474007-87473223
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Brest - Lannion" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87481788-87471003
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Croisic - Rennes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817850  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours - Chinon CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE203  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Montbrison - St-Etienne" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1209974  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours Loches" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE79  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Poitiers - Angoulême" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE669661  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nantes - Luçon - La Rochelle" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE637180  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car BRUYERES - LUNEVILLE" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87683573-87713040
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Auxerre-St-Gervais - Dijon-Ville" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE629110  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bordeaux - Arcachon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87295600-87172007
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Aulnoye Aymeries - Charleville-Mézières" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE717917  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chalon - Montchanin - Paray" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE61  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Annemasse - Annecy" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87191114-87175778
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Hagondange - Verdun" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87286005-87342337
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lille Flandres - St Pol sur Ternoise" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE140662  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ligne routière Carcassonne Quillan" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87615344-87611004
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "St-Sulpice (Tarn) - Toulouse-Matabiau" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE156704  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Clermont-Fd - Montbrison - St-Etienne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE336  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "MARSEILLE/LES ARCS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE725923  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Nevers - Luzy" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE252843  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Grenoble - Valence" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87645002-87594002
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Aurillac - Brive-la-Gaillarde" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE873867  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-LILLE-VALENCIENNES-AULNOYE-JEUMONT-VALENCIENNES-CAMBRAI" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE388859  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Thiers / Clermont (ligne 6)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE572935  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Clermont Fd / St Etienne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE817849  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Blois - Limeray CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE368849  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Autocars Bayeux / Lison / St-Lô / Coutances / Folligny / Granville / Pontorson" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105908  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM21A] PARIS - BEAUVAIS - LE TREPORT + TALM" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87192286-87192237
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Morhange - Rémilly" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87476002-87471300
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Lorient - Redon" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE637179  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Car EPINAL-MIRECOURT-CONTREX-NEUFCHATEAU" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE817863  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Thésée - St Aignan - Romorantin CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87286435-87342337
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Don Sainghin - St Pol sur Ternoise" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1105898  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM20] CREIL - BEAUVAIS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87276725-87276469
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Chambly - Persan-Beaumont" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87718007-87743005
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Besançon-Viotte - Bourg-en-Bresse" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE701667  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "BUS TER TROYES - CHAUMONT" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE941884  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Valence - Die" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE645595  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Commentry / Montluçon / Vierzon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE28  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Angers - Cholet" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE626  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Avignon-Port Bou" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87745000-85010082
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bellegarde-Gare - Genève" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1226018  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Besançon - Dijon" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87583005-87491803
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Angoulême - Royan" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE180696  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bus 4703 4702 4701 (TE) Montauban Cahors Brive" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE384859  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Clermont Fd / Durtol / Volvic (ligne 14)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE140643  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Bourg-St-Maurice - Grenoble" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87437798-87485144
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "La-Rochelle-Pt-Dauphine - Rochefort" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE617095  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Strasbourg - Rothau - Saales -St Dié" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87484006-87487009
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Angers-St-Laud - Thouars" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE317  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "NICE/TENDE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE10  a             gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Dol - Saint Brieuc" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE600932  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Réguliers Strasbourg-Lauterbourg" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87471185-87471003
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Messac-Guipry - Rennes" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE1465993  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Cars Aurillac / Figeac" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE4620  a           gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Toulouse / Mazamet" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE584  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "(Lx) / Caen / St Lo / Coutances / Granville (Rennes)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE331  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Sarreguemines-Béning -Metz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE873862  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-AMIENS-BOULOGNE-CALAIS (Multi)" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE817876  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Romorantin - Vierzon CAR" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE645618  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Grenoble - Veynes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1377992  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Toulouse / Perpignan / Cerbère" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE116622  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LIMOGES - ANGOULEME" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87193714-87212225
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Sarralbe - Saverne" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87615245-87611004
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tessonnières - Toulouse-Matabiau" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1105903  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM23] PARIS - CREIL" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1109948  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[IC376] PARIS - ST QUENTIN" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87745000-87747006
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bellegarde-Gare - Grenoble" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE697671  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ARRAS-ST POL-ETAPLE-CALAIS" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87576207-87571000
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bourges - Tours" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87276691-87296004
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Compiègne - St Quentin" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE629104  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bordeaux - Dax - Tarbes" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87734699-87734723
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Le Puy-en-Velay - Vorey" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE701648  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "PARIS-ST DIZIER-BAR LE DUC" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1105893  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "[AM06] PARIS - CREPY - SOISSONS - LAON" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE7  a              gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Rennes - Saint Brieuc" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE140656  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "ligne routière Mende Clermont Ferrand" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE4619  a           gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Toulouse / Latour de Carol" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE104648  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "LIMOGES - ST YRIEIX - BRIVE" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE1522089  a        gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-PARIS-MAUBEUGE" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE123  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Tours- Chateau Du Loir- Le Mans" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87747402-87723494
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Grenoble U.-Gières - St-André-le-Gaz" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE597  a            gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Woerth - Lauterbourg - Strasbourg" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE180691  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bus 4705 (TE) Villefranche de R (FIG) (BLG) Aubin Viviez Decazeville Rodez" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE873875  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "CAR-LILLE-LENS (Via DON)" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCE384854  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Montluçon / Commentry / Gannat / Clermont Fd (ligne 8)" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCESN-87184002-87182063
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Belfort-Ville - Mulhouse" ;
+        gtfs:routeType  gtfs:Bus .
+
+ex:OCESN-87743005-87722025
+        a               gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bourg-en-Bresse - Lyon-Perrache" ;
+        gtfs:routeType  gtfs:Rail .
+
+ex:OCE817857  a         gtfs:Route ;
+        gtfs:agency     ex:OCESN ;
+        gtfs:longName   "Bourges - St Amand CAR" ;
+        gtfs:routeType  gtfs:Bus .

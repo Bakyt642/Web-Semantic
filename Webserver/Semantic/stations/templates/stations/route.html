@@ -1,0 +1,95 @@
+{% extends 'stations/main.html' %}
+{% block main_section %}
+    {% for post in news %}
+        <h1>{{ post.title }}</h1>
+        <p>{{ post.text}}</p>
+        <p>Autor:{{ post.author}}, Date: {{post.date}}</p>
+    {% endfor%}
+
+<h2>
+ {{ test }}
+</h2>
+
+<ol class="variables">
+ <!--<h7>{{ tosend }}</h7>-->
+ <!--<h7>{{ longi }}</h7>-->
+ <!--<h3>{{ lati }}</h3>-->
+       <!--<h4>-->
+           <!--<label> Route Name            :</label> Departure Time Arrival Time-->
+       <!--</h4>-->
+         <!--<h7>-->
+          <!--{% for i  in tosend%}-->
+
+                   <!--<li>-->
+                     <!--{{ i }} {{ y }} {{ z }}-->
+                   <!--</li>-->
+
+          <!--{% endfor %}-->
+         <!--</h7> <h7>-->
+          <!--{% for i  in arrt%}-->
+
+                   <!--<li>-->
+                     <!--{{ i }}-->
+                   <!--</li>-->
+
+          <!--{% endfor %}-->
+         <!--</h7>-->
+           <!--</h7> <h7>-->
+          <!--{% for i  in dept%}-->
+
+                   <!--<li>-->
+                     <!--{{ i }}-->
+                   <!--</li>-->
+
+          <!--{% endfor %}-->
+         <!--</h7>-->
+   <table>
+       <caption><h4>Trip information </h4></caption>
+    <!--<tr>-->
+        <!--<th scope="col">Route Name</th>-->
+        <!--<th scope="col">Departure Date</th>-->
+        <!--<th scope="col">Arrival Date</th>-->
+    <!--</tr>-->
+       <tr>
+           <th>Name of Route</th>
+       {% for i  in tosend%}
+
+
+            <th scope="col">
+
+              {{ i }}
+            </th>
+
+       {% endfor %}
+       </tr>
+       <tr>
+       <th> Arival Time</th>
+       {% for i  in arrt%}
+
+          <th scope="col">
+
+              {{ i }}
+          </th>
+
+       {% endfor %}
+       </tr>
+       <tr>
+           <th> Departure Time</th>
+       {% for i  in dept%}
+
+
+        <th scope="col">
+              {{ i }}
+        </th>
+
+       {% endfor %}
+       </tr>
+
+
+   </table>
+
+
+</ol>
+
+
+{% endblock main_section %}
