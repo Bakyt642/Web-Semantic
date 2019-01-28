@@ -6,4 +6,4 @@
 python3 manage.py runserver
 
 #### To run Jena Fuseki
-```xxx```
+java -jar fuseki-server.jar`
